@@ -4,7 +4,7 @@ Hi my name is **Davee**. This website will be used to make notes as I go through
 
 ### Table of Contents
 
-1. [Read 01:  Introductory HTML and JavaScript](https://davees987.github.io/reading-notes/read-01)
+1. [Read 01:  Introductory HTML and JavaScript](https://davees987.github.io/reading-notes/class-01)
 1. [Read 02:  HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://davees987.github.io/reading-notes/read-02)
 1. [Read 03:  HTML Lists, CSS Boxes, JS Control Flow](https://davees987.github.io/reading-notes/read-03)
 1. [Read 04:  HTML Links, CSS Layout, JS Functions](https://davees987.github.io/reading-notes/read-04)
@@ -23,3 +23,4 @@ Hi my name is **Davee**. This website will be used to make notes as I go through
 
 #### Contact Info
 Check out my [GitHub](https://github.com/daveeS987)
+
