@@ -21,5 +21,5 @@ Hi my name is Davee. This website will be used to make notes as I go through my 
 1. [Read 15: ](https://davees987.github.io/reading-notes/read-15)
 
 
-##### Contact Info
+#### Contact Info
 Check out my [GitHub](https://github.com/daveeS987)
