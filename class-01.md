@@ -62,5 +62,5 @@ How a browser sees a webpage
 1. Create a model of the page and store it in memory
 1. Use a rendering engine to show the page on screen
 
-![objects and methods](/images/)
+![objects and methods](../images/objectsAndMethods.png)
 
