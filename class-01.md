@@ -65,4 +65,4 @@ concise - clear - selective - context - ineractive - consistent
 ### Objects & Methods
 <!-- ![objects and methods](/images/objectsAndMethods.png) -->
 
-<img src="/images/objectsAndMethods.png" width="300px"/>
+<img src="/images/objectsAndMethods.png" alt="objects and methods" width="300px"/>
