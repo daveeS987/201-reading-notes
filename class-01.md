@@ -47,4 +47,20 @@ consistency headings
 concise - clear - selective - context - ineractive - consistent
 
  
+## Javascript
+
+### Terms to know
+
+- Object - each physical thing in the world can be represented as an object
+- properties - characteristics of objects, compose of name and value
+- events - things the user does to trigger an action
+- methods - are like questions and instructions that can give info about the object or change values in the objects property
+- Document Object Model - browser creates a model of webpage, document object, and new object for each element of the page
+
+How a browser sees a webpage
+1. Receive page as html code
+1. Create a model of the page and store it in memory
+1. Use a rendering engine to show the page on screen
+
+![objects and methods](/images/)
 
