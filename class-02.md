@@ -3,7 +3,7 @@
 ### Terms to know 
 
 - structural markup - the element that you can use to describe bot headings and paragraphs
-- semantic markup - provides extra info such as where emphasis is placed in a sentence, that something is a quotation, the meaning of acryonyms, etc
+- semantic markup - provides extra info such as where emphasis is placed in a sentence, that something is a quotation, the meaning of acryonyms, etc. They are not intended to affect the structure of your webpage.
 
 ```
 <h1> headings
@@ -14,6 +14,8 @@
 <sub> subscirpt (ex. H2O)
 <br /> adding line breaks inside a paragraph
 <hr /> horizontal rule (creates horizontal line)
+
+Semantic Markups
 <strong></strong> bold
 <em></em> italics
 <blockquote> used for longer quote that take up an entire paragraph. <p> element is inside
@@ -64,6 +66,8 @@ Ruleset:
 `p a {}` Descendent Selector (targest any a elements inside p elements even if there are other elements nested between)  
 `h1 + p {}` Adjacent Sibling Selector (targets the first p element after any h1 element but not other p elements)  
 `h1~p {}` General Sibling Selector (if you had two p elements that are siblings of an h1 element, this rule would apply to both)  
+
+![CSS Selectors](/images/cssSelector.jpg)
 
 ### How CSS Rules Cascade
 
