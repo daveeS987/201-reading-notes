@@ -39,3 +39,6 @@ Terms to Know:
 - Use for loop if you need to run a code a specific number of times
 - Use while loop if you dont know how many times the code needs to run
 - For loop will consist of an initialization, condition, and update. 
+- terms
+  - break - keyword that causes termination of loop
+  - continue - keyword that tells interpretor to continue with current iteration and check the condition again
