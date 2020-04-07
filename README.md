@@ -9,7 +9,7 @@ Hi my name is **Davee**. This website will be used to make notes as I go through
 1. [Read 03:  HTML Lists, CSS Boxes, JS Control Flow](https://davees987.github.io/reading-notes/class-03)
 1. [Read 04:  HTML Links, CSS Layout, JS Functions](https://davees987.github.io/reading-notes/class-04)
 1. [Read 05:  HTML Images; CSS Color & Text](https://davees987.github.io/reading-notes/class-05)
-1. [Read 06:  JS Object Literals; The DOM](https://davees987.github.io/reading-notes/read-06)
+1. [Read 06:  JS Object Literals; The DOM](https://davees987.github.io/reading-notes/class-06)
 1. [Read 07:  HTML Tables; JS Constructor Functions](https://davees987.github.io/reading-notes/read-07)
 1. [Read 08:  More CSS Layout](https://davees987.github.io/reading-notes/read-08)
 1. [Read 09:  Forms and Events](https://davees987.github.io/reading-notes/read-09)
