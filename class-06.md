@@ -21,35 +21,35 @@ DOM tree will consist of 4 main types of Nodes
 ## Accessing and updating the Dom tree involves two steps:
 
 1. Access the Elements
-  - Select individual element node
-    - getElementById()
-    - querySelector() - returns first element node that matches CSS-style selector
-  - Select multiple elements (nodelists)
-    - getElementsByClassName() 
-    - getElementsbyTagName()
-    - querySelectorAll() - returns nodeList of all matches. uses CSS
-  - Traversing 
-    - parentNode
-    - previousSibling 
-    - nextSibling
-    - firstChild 
-    - lastChild
+  - Select individual element node  
+    - getElementById()  
+    - querySelector() - returns first element node that matches   CSS-style selector  
+  - Select multiple elements (nodelists)  
+    - getElementsByClassName()   
+    - getElementsbyTagName()  
+    - querySelectorAll() - returns nodeList of all matches. uses CSS  
+  - Traversing   
+    - parentNode  
+    - previousSibling   
+    - nextSibling  
+    - firstChild   
+    - lastChild  
 
     <br>
 2. Work with those Elements
-  - Access / update text nodes
-    - nodeValue - lets you access or update contents of text node
-  - Work with HTML Content
+  - Access / update text nodes  
+    - nodeValue - lets you access or update contents of text node  
+  - Work with HTML Content  
     - textContent - will collect text and ignore any markup
-    - innerText - should generally avoid because firefox doesnt support it, it will not show any content hidden by CSS, can be slower
-    - innerHTML - better suited to updating entire fragments
-      - Adding Content 
+    - innerText - should generally avoid because firefox doesnt   support it, it will not show any content hidden by CSS, can be slower
+    - innerHTML - better suited to updating entire fragments  
+      - Adding Content   
         1. store new content as string in variable
         2. select element whose content you want to replace
         3. set elements innerHTML property to new string
-    - DOM Manipulation -
-      - createElement()
-      - createTextNode()
+    - DOM Manipulation -  
+      - createElement()  
+      - createTextNode()  
       - appendChild() / removeChild()
   - Access or Update Attribute Values
     - className / id
