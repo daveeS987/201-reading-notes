@@ -1,8 +1,8 @@
 # Read 06 Notes
 
-JS Book  
-Ch 3: Object Literals(p100-105)
-Ch 5: Document Object Model (p183-242)
+**JS Book**  
+Ch 3: Object Literals(p100-105)  
+Ch 5: Document Object Model (p183-242)  
 
 ## Problem Domain
 
