@@ -20,14 +20,17 @@ DOM tree will consist of 4 main types of Nodes
 
 ## Accessing and updating the Dom tree involves two steps:
 
-1. Access the Elements
+1. Access the Elements:
+
   - Select individual element node  
-    - getElementById()  
-    - querySelector() - returns first element node that matches   CSS-style selector  
+    - getElementById('id') -
+    - querySelector('css selector') - returns first element match. ex 'li.hot'  
+
   - Select multiple elements (nodelists)  
-    - getElementsByClassName()   
-    - getElementsbyTagName()  
-    - querySelectorAll() - returns nodeList of all matches. uses CSS  
+    - getElementsByClassName('class')   
+    - getElementsbyTagName('tagName')  ex. h1, li
+    - querySelectorAll() - ex li[id]  
+
   - Traversing   
     - parentNode  
     - previousSibling   
@@ -35,22 +38,27 @@ DOM tree will consist of 4 main types of Nodes
     - firstChild   
     - lastChild  
 
-    <br>
-2. Work with those Elements
-  - Access / update text nodes  
+2. Work with those Elements:
+
+  - Access / update text nodes    
     - nodeValue - lets you access or update contents of text node  
-  - Work with HTML Content  
-    - textContent - will collect text and ignore any markup
+
+  - Work with HTML Content    
+    - textContent - will collect text and ignore any markup (use this one)
     - innerText - should generally avoid because firefox doesnt   support it, it will not show any content hidden by CSS, can be slower
     - innerHTML - better suited to updating entire fragments  
       - Adding Content   
         1. store new content as string in variable
         2. select element whose content you want to replace
         3. set elements innerHTML property to new string
-    - DOM Manipulation -  
+    - DOM Manipulation:   
       - createElement()  
       - createTextNode()  
-      - appendChild() / removeChild()
+      - appendChild()
+      - removeChild()  
+
+![Dom-manipulation](/images/DOM-manipulation.png)      
+
   - Access or Update Attribute Values
     - className / id
     - hasAttribute()
