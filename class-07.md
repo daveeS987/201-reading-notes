@@ -37,3 +37,14 @@ rowspan attribute (up and down)
 
 ## Functions, Methods, Objects
 
+Create an object with constructor Notation
+
+![Constructor Notation](/images/constructor-notation.png)
+
+Create many objects: use constructor function
+
+![Constructor Function](/images/constructor-function.png)
+
+Instantiate and initialize using constructor function
+
+![Instantiate](/images/Instantiate.png)
