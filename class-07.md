@@ -33,6 +33,7 @@ rowspan attribute (up and down)
 <thead>
 <tbody>
 <tfoot>
+``` 
 
 ## Functions, Methods, Objects
 
