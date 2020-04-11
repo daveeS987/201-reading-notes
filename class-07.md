@@ -1,8 +1,8 @@
 # Read 07 Notes
 
-Article: Domain Modeling
-HTML Book: Chapter 6: "Tables" (p126-145)
-JS Book: Chapter 3: "Functions, Method, and Objects" (p106-144)
+Article: Domain Modeling  
+HTML Book: Chapter 6: "Tables" (p126-145)  
+JS Book: Chapter 3: "Functions, Method, and Objects" (p106-144)  
 
 ## Object Oriented programming in Javascript Fundamental
 
