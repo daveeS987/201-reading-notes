@@ -16,7 +16,7 @@
   - absolute positioning - position element in relationship to containing element. taken out of normal flow, does not affect position of surrounding elements, it will move as user scroll up and down the page
   - fixed positioning - positions the element in relation to the browser window. Does not move when user scrolls up or down
   - floating elements - element that is out of normal flow and can be positined far right or left. Floated elements become a block-level element around which other content can flow
-- Parents of floated elements problem/solution: if containing elements only have floated elements, the browser will treat it as if its 0 pixels tall. solution: 
+- Parents of floated elements problem/solution: if containing elements only have floated elements, the browser will treat it as if its 0 pixels tall. solution: css property
   ```
   overflow: auto;
   width: 100%;
@@ -45,3 +45,13 @@ Notes
 - Web Designers often try to create pages of around 960-1000px wide
 - The top 570-600px of the site is commonly used for the most relavent or most important info to the user
 
+ 960.GS
+
+- container_12 : act as container for whole page
+- clearfix : ensures browser knows height of boxes. mitigates issues with floats
+- grid_12 : creates blocks 12 columns wide
+- grid_4 : creates blocks 4 columns wide
+
+Multiple Style Sheets
+- @import
+- `<link>`
