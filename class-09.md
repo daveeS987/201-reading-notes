@@ -35,12 +35,8 @@ Elements & Attributes to be familiar with:
 When an event has occured, it is described as having fired or been raised. Then the event triggers functions or scripts
 
 Different types of Events
-- UI 
-- keyboard
-- mouse
-- focus
-- form 
-- mutation
+
+
 
 Event Handling 
 1. Select the element node you want the script to respond to
@@ -62,3 +58,4 @@ Three ways to Bind Event to an element
 
 ![Event Listener](images/event-listener.png)
 
+If you have to use parameters in a function, you must wrap function in anonymous function. 
