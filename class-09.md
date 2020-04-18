@@ -49,11 +49,13 @@ Event Handling
 
 Three ways to Bind Event to an element
 - HTML Event Handlers - do not use. used in old code and is bad practice
-- traditional DOM event handlers
-- DOM level 2 event listeners
+- Traditional DOM Event Handlers
+- DOM level 2 Event Listeners
 
-Tradition DOM event Handlers
+**Tradition DOM event Handlers**
 - can only attach one function to each event handler
 
-<img src="images/DOM-event-Handlers.png" width="500px">
-<img src="images/DOM-event-handler2.png" width="500px">
+<img src="images/DOM-event-Handlers.png" width="800px">
+<img src="images/DOM-event-handler2.png" width="800px">
+
+**Event Listeners**
