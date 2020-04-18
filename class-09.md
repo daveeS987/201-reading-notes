@@ -59,3 +59,6 @@ Three ways to Bind Event to an element
 <img src="images/DOM-event-handler2.png" width="800px">
 
 **Event Listeners**
+
+![Event Listener](images/event-listener.png)
+
