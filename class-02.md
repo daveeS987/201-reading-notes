@@ -153,3 +153,5 @@ To determine which path to take, programmers rely on the following three concept
 
 - Logical operators will let you compare the results of more than one comparison operator
 
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

@@ -109,4 +109,4 @@ Fundamental skills that help anyone learn a new language
 - writing - actually write code
 
 
-
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

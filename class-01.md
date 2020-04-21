@@ -66,3 +66,6 @@ concise - clear - selective - context - ineractive - consistent
 <!-- ![objects and methods](/images/objectsAndMethods.png) -->
 
 <img src="images/objectsAndMethods.png" alt="objects and methods" width="700"/>
+
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

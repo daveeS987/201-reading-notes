@@ -59,3 +59,6 @@ Three ways to Bind Event to an element
 ![Event Listener](images/event-listener.png)
 
 If you have to use parameters in a function, you must wrap function in anonymous function. 
+
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

@@ -48,3 +48,6 @@ Create many objects: use constructor function
 Instantiate and initialize using constructor function
 
 ![Instantiate](/images/Instantiate.png)
+
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

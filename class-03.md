@@ -42,3 +42,6 @@ Terms to Know:
 - terms
   - break - keyword that causes termination of loop
   - continue - keyword that tells interpretor to continue with current iteration and check the condition again
+
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)
