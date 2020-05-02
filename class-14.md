@@ -4,10 +4,10 @@
 
 Two behaviors that all the good teams generally shared. 
 
-- Members spoke in roughly the same proportion."equality in distribution of conversational turn-taking."
-- Good teams had high ‘‘average social sensitivity’’ Meaning they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues.
+- Members spoke in roughly the same proportion.
+- Had high ‘‘average social sensitivity’’ Meaning they were skilled at sensing how others feel. 
 
-Psychological safety - shared belief held by members of a team that the team is safe for interpersonal risk-taking
+Psychological safety - shared belief that the team is safe for interpersonal risk-taking
 
-The behaviors that create psychological safety — conversational turn-taking and empathy. 
+Behaviors that create psychological safety — taking turns talking, and empathy. 
 
