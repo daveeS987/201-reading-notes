@@ -11,3 +11,7 @@ Psychological safety - shared belief that the team is safe for interpersonal ris
 
 Behaviors that create psychological safety — taking turns talking, and empathy. 
 
+<br>
+<br>
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)

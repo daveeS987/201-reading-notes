@@ -79,3 +79,9 @@ Draws an arc which is centered at (x, y) position with radius r starting at star
 
 arcTo(x1, y1, x2, y2, radius)  
 Draws an arc with the given control points and radius, connected to the previous point by a straight line.
+
+
+<br>
+<br>
+
+[Back to Table of Contents](https://davees987.github.io/reading-notes)
